@@ -1,0 +1,4 @@
+Mateusz, Native, 02.02.1958, 1, neurolog
+Mateusz, Kinga, 04.06.1985, 4, kardiolog
+fars, kon, 09.03.1985, 12, urolog
+Kola, Nowak, 01.03.1989, 7, allergolog

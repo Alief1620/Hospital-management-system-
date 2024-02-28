@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.exe
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.deps.json
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.runtimeconfig.json
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.runtimeconfig.dev.json
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.dll
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\ref\Alief_Shakirova_w67966.dll
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\bin\Debug\net5.0\Alief_Shakirova_w67966.pdb
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.AssemblyInfo.cs
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.dll
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\ref\Alief_Shakirova_w67966.dll
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.pdb
+C:\Users\User\Desktop\Alief_Shakirova_w67966\Alief_Shakirova_w67966\obj\Debug\net5.0\Alief_Shakirova_w67966.genruntimeconfig.cache

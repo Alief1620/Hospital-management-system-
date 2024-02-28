@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Alief_Shakirova_w67966/1.0.0": {
+        "runtime": {
+          "Alief_Shakirova_w67966.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alief_Shakirova_w67966/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

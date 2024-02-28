@@ -1,0 +1,4 @@
+x-100, nowy
+s-3, stary
+g-89, nowy
+g-60, stary
